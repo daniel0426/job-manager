@@ -7,10 +7,15 @@ Tradie can filter/sort jobs.
 ## Tech used 
 - React / Firebase / TailwindCSS
 
+
+
 ## To start application
   1. clone this project
   2. npm install
   3. npm start
+
+or you can see live site here 
+https://fergus-job-manager.netlify.app/
 
 ## Process
 
