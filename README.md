@@ -2,7 +2,7 @@
 
 Building Job managing application with React (front-end) and Firebase firestore (database, backend)
 
-# Tech used 
+## Tech used 
 - React / Firebase / TailwindCSS
 
 ## To start application
@@ -10,7 +10,7 @@ Building Job managing application with React (front-end) and Firebase firestore 
   2. npm install
   3. npm start
 
-### Process
+## Process
 
   1. Project setup 
      project setup using create-react-app & install libraries that needed (tailwindCSS, react-router, ..etc)
