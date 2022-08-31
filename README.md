@@ -46,6 +46,9 @@ https://fergus-job-manager.netlify.app/
   7. Refactoring
     - test the app several times to see if there is any minor errors and fix it.
 
+  8. Deploying
+    - Use Netlify for deploying and get the site domain.
+
 
   
 
