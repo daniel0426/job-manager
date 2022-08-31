@@ -1,6 +1,8 @@
 # Job managing application
 
-Building Job managing application with React (front-end) and Firebase firestore (database, backend)
+Job managing application that tradie can see listed jobs.
+Tradie can edit status, notes for specific jobs.
+Tradie can filter/sort jobs.
 
 ## Tech used 
 - React / Firebase / TailwindCSS
