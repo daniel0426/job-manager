@@ -12,6 +12,7 @@ import { dbService } from '../firebase'
 
 function JobDetail() {
     let { jobId } = useParams()
+
     const [newNote, setNewNote] = useState('')
     const [jobDetail, setJobDetail] = useState()
     const [changeStatus, setChangeStatus] = useState('')
@@ -51,6 +52,7 @@ function JobDetail() {
         await updateDoc(docRef, { status: changeStatus })
         setEditing(false)
     }
+
     const generateTime = (value) => {
         const time = new Date(value).toLocaleString('en-NZ', {
             timeZone: 'Pacific/Auckland',
